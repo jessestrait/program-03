@@ -1,0 +1,7 @@
+
+{"stateCapital":[
+		    { "stateName":"Texas", "capitalName":"Austin", "qualityRating": 8 },
+		    { "stateName":"California", "capitalName":"Sacramento", "qualityRating": 7 },
+		    { "stateName":"New York", "capitalName":"New York City", "qualityRating": 9 },
+		    { "stateName":"Louisiana", "capitalName":"Baton Rouge", "qualityRating": 7 }
+]}
